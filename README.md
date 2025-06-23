@@ -26,7 +26,7 @@ The website is built using:
 
 ## Usage
 
-To view the website, simply open the `index.html` file in your web browser or visit [https://baraousaid.github.io/portfolio_website/](https://baraousaid.github.io/portfolio_website/).
+To view the website, simply open the `index.html` file in your web browser or visit [https://portfolio-e1wb.onrender.com](https://portfolio-e1wb.onrender.com).
 
 ## Contributions
 
